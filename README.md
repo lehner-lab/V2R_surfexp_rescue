@@ -11,4 +11,5 @@ numpy_1.21.5
 seaborn_0.11.2
 pandas_1.4.2
 scipy_1.8.0
+sklearn_1.0.2
 
