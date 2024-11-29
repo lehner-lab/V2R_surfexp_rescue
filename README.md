@@ -12,4 +12,5 @@ seaborn_0.11.2
 pandas_1.4.2
 scipy_1.8.0
 sklearn_1.0.2
+statsmodels_0.13.2
 
