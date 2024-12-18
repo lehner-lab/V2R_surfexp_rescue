@@ -1,4 +1,4 @@
-These files contain the code to reproduce the figures from the publication:
+These files contain the code to reproduce the analyse and figures from the publication:
 
 “A pharmacological chaperone stabilizer rescues the expression of the vast majority of pathogenic variants in a G protein coupled receptor”, by Taylor Mighell and Ben Lehner.
 
@@ -14,3 +14,4 @@ scipy_1.8.0
 sklearn_1.0.2
 statsmodels_0.13.2
 
+All programs can be installed with the anaconda distribution platform (expected installation time < 20 minutes)
